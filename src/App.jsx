@@ -22,7 +22,7 @@ import c3 from "./assets/c3.png";
 import c4 from "./assets/c4.png";
 
 import Frame47 from "./assets/Frame47.png";
-import vector from './assets/vector.png'; 
+
 import vector2 from "./assets/vector2.png";
 import { ButtonLogin } from "./components/buttons/button";
 import { Article1 } from "./components/buttons/article1/article1";
@@ -50,7 +50,7 @@ export default function App() {
         </div>
       </nav>
       <section className="section_1">
-        <img className="vector" src={vector} alt="" />
+    
         <aside className="aside_1">
           <h1>Голосовий робот для дзвінків від 1,7 ₴ за хвилину розмови</h1>
           <p>
