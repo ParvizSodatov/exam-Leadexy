@@ -1,0 +1,37 @@
+.article4{
+   box-shadow: 0px 0px 5px gray;
+    width: 20%;
+    text-align: center;
+    padding: 10px;
+}
+.article4 p{
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    color: gray;
+}
+
+
+
+
+@media(min-width:300px) and (max-width:600px){
+.article4{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+ 
+}
+}
+
+
+@media(min-width:601px) and (max-width:900px){
+.article4{
+    width: 250px;
+    margin-top: 40px;
+}
+.divarticle{
+    flex-wrap: wrap;
+}
+
+
+}

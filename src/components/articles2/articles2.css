@@ -1,0 +1,41 @@
+.article2{
+    box-shadow: 0px  0px 5px gray;
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+}
+.article2 h1{
+    font-size: 30px;
+}
+
+
+@media(min-width:300px) and (max-width:600px){
+.article2{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.vector2{
+    width: 50%;
+    margin: auto;
+}
+.article2 h1{
+    font-size: 25px;
+}
+
+}
+
+
+
+@media(min-width:601px) and (max-width:900px){
+.article2{
+    width: 350px;
+    margin-top: 20px;
+}
+.article2 h1{
+    font-size: 30px;
+}
+
+
+
+}

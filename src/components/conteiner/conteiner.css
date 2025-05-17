@@ -1,0 +1,12 @@
+.conteiner{
+    width: 550px;
+
+}
+.conteiner h1{
+    font-size: 40px;
+
+}
+.conteiner p{
+    font-size: 20px;
+    line-height: 30px;
+}
