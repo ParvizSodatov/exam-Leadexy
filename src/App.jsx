@@ -22,8 +22,7 @@ import c3 from "./assets/c3.png";
 import c4 from "./assets/c4.png";
 
 import Frame47 from "./assets/Frame47.png";
-
-import vector from "./assets/vector.png";
+import vector from './assets/vector.png'; 
 import vector2 from "./assets/vector2.png";
 import { ButtonLogin } from "./components/buttons/button";
 import { Article1 } from "./components/buttons/article1/article1";
